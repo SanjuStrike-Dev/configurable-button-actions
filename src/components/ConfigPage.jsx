@@ -16,7 +16,7 @@ import {
   Divider,
 } from "@mui/material";
 import DeleteIcon from "@mui/icons-material/Delete";
-import EditIcon from "@mui/icons-material/Edit"; // Import Edit icon
+import EditIcon from "@mui/icons-material/Edit";
 import { styled } from "@mui/system";
 
 const actionsList = [
